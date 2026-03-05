@@ -1,10 +1,10 @@
-## ☁️ Let's me introduce myself !
+## ☁️ Let me introduce myself !
 
 
 <div id="header" align="center">
   <h1>Hi , My name is Mew ! 🕹️</h1> 
   
-  <h3>I really love to coding, studying, and learning new things !</h3>
+  <h3>I really love coding, studying, and learning new things !</h3>
 
   [<img src = "https://github.com/DeasyXD/DeasyXD/blob/Asset/waving.gif" width = "250">](#)
   <h2> 📋 &nbsp;My favorite Languages</h2>
